@@ -1,0 +1,11 @@
+F:\SrijanDefence\Encryption\bin\Debug\Encryption.dll
+F:\SrijanDefence\Encryption\bin\Debug\Encryption.pdb
+F:\SrijanDefence\Encryption\obj\Debug\Encryption.csprojResolveAssemblyReference.cache
+F:\SrijanDefence\Encryption\obj\Debug\Encryption.dll
+F:\SrijanDefence\Encryption\obj\Debug\Encryption.pdb
+D:\Shiv\SrijanDefence\Encryption\bin\Debug\Encryption.dll
+D:\Shiv\SrijanDefence\Encryption\bin\Debug\Encryption.pdb
+D:\Shiv\SrijanDefence\Encryption\obj\Debug\Encryption.csprojAssemblyReference.cache
+D:\Shiv\SrijanDefence\Encryption\obj\Debug\Encryption.csproj.CoreCompileInputs.cache
+D:\Shiv\SrijanDefence\Encryption\obj\Debug\Encryption.dll
+D:\Shiv\SrijanDefence\Encryption\obj\Debug\Encryption.pdb
